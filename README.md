@@ -1,2 +1,2 @@
 # Amazon-clone
-This is Amazon Clone Made By Html And CSS
+This is an Amazon clone made using HTML and CSS.
